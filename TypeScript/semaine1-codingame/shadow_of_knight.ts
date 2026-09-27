@@ -1,0 +1,1 @@
+console.log(typeof Math.round(2.6));
